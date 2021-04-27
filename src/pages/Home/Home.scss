@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap');
+
+.profile {
+  max-width: 100%;
+}
+
+.branding {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.title {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.sub-title {
+  font-size: 50px;
+  font-weight: bold;
+  color: #C4C4C4;
+}
+
+.desc {
+  font-size: 18px;
+}
+
+.text-section {
+  font-size: 16px;
+  font-weight: bold;
+  color: #8491A0;
+}
+
+.portfolio {
+  max-width: 100%;
+}
+
+.background-portfolio {
+  background-color: #181823;
+  padding: 40px 32px 40px 32px;
+
+  .title-portfolio {
+    font-size: 24px;
+    font-weight: bold;
+    color: #FFFFFF;
+  }
+
+  .desc-portfolio {
+    font-size: 18;
+    color: #8491A0;
+  }
+}
+
+.btn-view-all {
+  padding: 24px 32px 24px 32px;
+  font-size: 18px;
+  font-weight: bold;
+  border-style: solid;
+}
